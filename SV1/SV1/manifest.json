@@ -1,0 +1,10 @@
+{
+	  "Name": "Astra",
+	   "Author": "Dayashi",
+	   "Version": "0.1.0",
+	   "Description": "After spending some quality recovery time orbiting the sun, Astra In-Ze has returned... to Stardew Valley as a custom NPC!",
+	   "UniqueID": "Dayashi.Astra",
+	   "EntryDll": "Astra.dll",
+	   "MinimumApiVersion": "2.0",
+	   "UpdateKeys": []
+	}
